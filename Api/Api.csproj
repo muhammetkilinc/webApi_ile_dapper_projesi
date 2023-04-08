@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <Folder Include="Models\Dto\" />
+    <Folder Include="Query\Dto\" />
   </ItemGroup>
 
 </Project>
